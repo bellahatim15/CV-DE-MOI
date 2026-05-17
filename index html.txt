@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Mon CV</title>
+  <style>
+    body{
+      font-family: Arial;
+      background:#f4f4f4;
+      padding:40px;
+    }
+
+    .cv{
+      background:white;
+      padding:30px;
+      border-radius:10px;
+      max-width:700px;
+      margin:auto;
+    }
+
+    h1{
+      color:#0077cc;
+    }
+  </style>
+</head>
+<body>
+
+<div class="cv">
+  <h1>Hatim Bella</h1>
+
+  <h2>Profil</h2>
+  <p>Étudiant passionné par l'informatique et le développement web.</p>
+
+  <h2>Compétences</h2>
+  <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>GitHub</li>
+  </ul>
+
+  <h2>Contact</h2>
+  <p>Email : bellahatim15@gmail.com</p>
+</div>
+
+</body>
+</html>
